@@ -123,3 +123,4 @@ We include a **Dummy Client** to simulate a third-party application requesting y
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Author: Sauryadipta Bhattacharya
